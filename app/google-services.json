@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135207547031",
+    "project_id": "loginfirebase-bdbc1",
+    "storage_bucket": "loginfirebase-bdbc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135207547031:android:0004559ea8baab33cab9d2",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMrBLqI3yxfnoruMuJvoEWY1LO7q7LcbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
